@@ -155,6 +155,6 @@ const help = (prefix) => {
   ▋▰ ☛ ${prefix}fml2
 ❖ ── ✦ ──『✙』── ✦ ── ❖
 `
-} CABO🙃. CHAMA EU AQUI: wa.me/+5533999342694🙌🤝 
+} 
 
 exports.help = help
