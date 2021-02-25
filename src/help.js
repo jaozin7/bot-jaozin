@@ -12,7 +12,7 @@ const help = (prefix) => {
 
  ▷ *Iɴғᴏʀᴍᴀᴄ̧ᴏ̃ᴇs*
 
- ▷ Pʀᴇғɪx: 「  ${prefix}  」
+ ▷ Prefix: 「  ${prefix}  」
 
  ▷ Sᴇɢᴜᴇ ᴍᴇᴜ ɪɴsᴛᴀ ᴀᴇ ᴍᴀɴ : joao_augustfc
 
